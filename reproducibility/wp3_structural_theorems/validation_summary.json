@@ -1,0 +1,24 @@
+{
+  "construction_counts": {
+    "T1": 19856,
+    "T2": 6180,
+    "T3": 98,
+    "T4": 52960
+  },
+  "original_witnesses": 79094,
+  "relabeled_witnesses": 79094,
+  "saved_representatives": 121,
+  "inherited_comparisons": {
+    "AGREE": 581,
+    "NOT_AVAILABLE": 607
+  },
+  "wp1_manifest_entries_unchanged": 1064,
+  "input_sha256": {
+    "wp1_generalization/inputs/main.tex": "648d9cc3a28c9bbdb9c09e98d29e8c25b3f18d21d1713e4e7cec4f22ac4ac694",
+    "wp1_generalization/full_exact_solver.py": "2ea2be0e34b0733a45ef1e58dc06d48a8109637ba5b6d354b71c9524feb01c86",
+    "wp1_generalization/verify_witness.py": "23b66cafd3be07a54ab61317b0629c56658d50ae5a5fd0d46562a7045eedee7a",
+    "wp1_generalization/line_rate_map.csv": "889c0a7bedb5ca8c064370154c00cfa6a966f347ca32f529e78e8feff6d4693e",
+    "wp2_no_wait_boundary/c4_exact_map.csv": "ceaed1e60697e66fc58d21baa0595d9398b63cb310f383858a993da33ac88c8c",
+    "wp2_no_wait_boundary/C4_REPORT.md": "ba88f9772980bd63acb9759a7f11ba33c48dddb325a85e1e240adacde12e1341"
+  }
+}

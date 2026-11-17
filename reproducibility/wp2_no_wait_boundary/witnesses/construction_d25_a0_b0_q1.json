@@ -1,0 +1,338 @@
+{
+  "d": 25,
+  "a": 0,
+  "b": 0,
+  "c": 25,
+  "n": 25,
+  "W": 2,
+  "T": 50,
+  "worker_types": [
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB",
+    "AB"
+  ],
+  "operations": [
+    {
+      "job": 0,
+      "stage": "A",
+      "start": 0,
+      "worker": 0
+    },
+    {
+      "job": 0,
+      "stage": "B",
+      "start": 1,
+      "worker": 1
+    },
+    {
+      "job": 1,
+      "stage": "A",
+      "start": 2,
+      "worker": 2
+    },
+    {
+      "job": 1,
+      "stage": "B",
+      "start": 3,
+      "worker": 3
+    },
+    {
+      "job": 2,
+      "stage": "A",
+      "start": 4,
+      "worker": 4
+    },
+    {
+      "job": 2,
+      "stage": "B",
+      "start": 5,
+      "worker": 5
+    },
+    {
+      "job": 3,
+      "stage": "A",
+      "start": 6,
+      "worker": 6
+    },
+    {
+      "job": 3,
+      "stage": "B",
+      "start": 7,
+      "worker": 7
+    },
+    {
+      "job": 4,
+      "stage": "A",
+      "start": 8,
+      "worker": 8
+    },
+    {
+      "job": 4,
+      "stage": "B",
+      "start": 9,
+      "worker": 9
+    },
+    {
+      "job": 5,
+      "stage": "A",
+      "start": 10,
+      "worker": 10
+    },
+    {
+      "job": 5,
+      "stage": "B",
+      "start": 11,
+      "worker": 11
+    },
+    {
+      "job": 6,
+      "stage": "A",
+      "start": 12,
+      "worker": 12
+    },
+    {
+      "job": 6,
+      "stage": "B",
+      "start": 13,
+      "worker": 13
+    },
+    {
+      "job": 7,
+      "stage": "A",
+      "start": 14,
+      "worker": 14
+    },
+    {
+      "job": 7,
+      "stage": "B",
+      "start": 15,
+      "worker": 15
+    },
+    {
+      "job": 8,
+      "stage": "A",
+      "start": 16,
+      "worker": 16
+    },
+    {
+      "job": 8,
+      "stage": "B",
+      "start": 17,
+      "worker": 17
+    },
+    {
+      "job": 9,
+      "stage": "A",
+      "start": 18,
+      "worker": 18
+    },
+    {
+      "job": 9,
+      "stage": "B",
+      "start": 19,
+      "worker": 19
+    },
+    {
+      "job": 10,
+      "stage": "A",
+      "start": 20,
+      "worker": 20
+    },
+    {
+      "job": 10,
+      "stage": "B",
+      "start": 21,
+      "worker": 21
+    },
+    {
+      "job": 11,
+      "stage": "A",
+      "start": 22,
+      "worker": 22
+    },
+    {
+      "job": 11,
+      "stage": "B",
+      "start": 23,
+      "worker": 23
+    },
+    {
+      "job": 12,
+      "stage": "A",
+      "start": 24,
+      "worker": 24
+    },
+    {
+      "job": 13,
+      "stage": "A",
+      "start": 25,
+      "worker": 0
+    },
+    {
+      "job": 12,
+      "stage": "B",
+      "start": 26,
+      "worker": 1
+    },
+    {
+      "job": 14,
+      "stage": "A",
+      "start": 27,
+      "worker": 2
+    },
+    {
+      "job": 13,
+      "stage": "B",
+      "start": 28,
+      "worker": 3
+    },
+    {
+      "job": 15,
+      "stage": "A",
+      "start": 29,
+      "worker": 4
+    },
+    {
+      "job": 14,
+      "stage": "B",
+      "start": 30,
+      "worker": 5
+    },
+    {
+      "job": 16,
+      "stage": "A",
+      "start": 31,
+      "worker": 6
+    },
+    {
+      "job": 15,
+      "stage": "B",
+      "start": 32,
+      "worker": 7
+    },
+    {
+      "job": 17,
+      "stage": "A",
+      "start": 33,
+      "worker": 8
+    },
+    {
+      "job": 16,
+      "stage": "B",
+      "start": 34,
+      "worker": 9
+    },
+    {
+      "job": 18,
+      "stage": "A",
+      "start": 35,
+      "worker": 10
+    },
+    {
+      "job": 17,
+      "stage": "B",
+      "start": 36,
+      "worker": 11
+    },
+    {
+      "job": 19,
+      "stage": "A",
+      "start": 37,
+      "worker": 12
+    },
+    {
+      "job": 18,
+      "stage": "B",
+      "start": 38,
+      "worker": 13
+    },
+    {
+      "job": 20,
+      "stage": "A",
+      "start": 39,
+      "worker": 14
+    },
+    {
+      "job": 19,
+      "stage": "B",
+      "start": 40,
+      "worker": 15
+    },
+    {
+      "job": 21,
+      "stage": "A",
+      "start": 41,
+      "worker": 16
+    },
+    {
+      "job": 20,
+      "stage": "B",
+      "start": 42,
+      "worker": 17
+    },
+    {
+      "job": 22,
+      "stage": "A",
+      "start": 43,
+      "worker": 18
+    },
+    {
+      "job": 21,
+      "stage": "B",
+      "start": 44,
+      "worker": 19
+    },
+    {
+      "job": 23,
+      "stage": "A",
+      "start": 45,
+      "worker": 20
+    },
+    {
+      "job": 22,
+      "stage": "B",
+      "start": 46,
+      "worker": 21
+    },
+    {
+      "job": 24,
+      "stage": "A",
+      "start": 47,
+      "worker": 22
+    },
+    {
+      "job": 23,
+      "stage": "B",
+      "start": 48,
+      "worker": 23
+    },
+    {
+      "job": 24,
+      "stage": "B",
+      "start": 49,
+      "worker": 24
+    }
+  ]
+}

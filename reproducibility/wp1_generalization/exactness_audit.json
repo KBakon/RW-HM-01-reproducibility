@@ -1,0 +1,33 @@
+{
+  "tiny_oracle_cells": 264,
+  "tiny_oracle_mismatches": 0,
+  "c3_smallest_search_order": [
+    "d",
+    "n",
+    "W",
+    "a",
+    "b",
+    "c"
+  ],
+  "c3_cells_before_first_failure": 1306,
+  "c3_smallest": {
+    "d": 5,
+    "a": 0,
+    "b": 2,
+    "c": 3,
+    "n": 4,
+    "W": 0,
+    "full_status": "FEASIBLE",
+    "residue_status": "INFEASIBLE",
+    "witness_file": "witnesses/counterexample_C3_smallest_d5_0_2_3_n4_W0.json"
+  },
+  "c1_smallest_in_tiny_domain": {
+    "d": 3,
+    "a": 0,
+    "b": 0,
+    "c": 3,
+    "n": 2,
+    "W": 1,
+    "T": 4
+  }
+}

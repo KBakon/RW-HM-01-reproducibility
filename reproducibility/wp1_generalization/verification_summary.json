@@ -1,0 +1,28 @@
+{
+  "regression_required_cells": 240,
+  "regression_reverse_additional_cells": 144,
+  "regression_matches": 384,
+  "map_rows": 312,
+  "workforce_compositions": 104,
+  "full_vs_independent_checks": 1965,
+  "cross_mismatches": 0,
+  "resource_bound_unresolved": 0,
+  "witnesses_verified": 1041,
+  "reversed_witnesses_verified": 1041,
+  "positive_wait_minimum_boundaries": 64,
+  "c1_full_witnesses_checked": 352,
+  "c1_status_counts": {
+    "PASS": 81,
+    "COUNTEREXAMPLE_NON_SATURATED": 271
+  },
+  "c1_nonperiodic_worker_occupancy": 241,
+  "c2_counterexample_rows": 14,
+  "c3_counterexample_rows": 45,
+  "verifier_negative_mutations": 9,
+  "max_map_row_seconds": 3.009141,
+  "max_independent_check_seconds": 46.491002,
+  "python": "3.13.15",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "tiny_oracle_cells": 264,
+  "tiny_oracle_mismatches": 0
+}

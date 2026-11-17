@@ -1,0 +1,2 @@
+# Preserve byte-exact evidence and SHA-256 manifests on check-in and checkout.
+* -text

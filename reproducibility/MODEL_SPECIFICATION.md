@@ -1,0 +1,9 @@
+# Formal model and scope
+
+There are n>=1 identical jobs, each with unit-duration A then unit-duration B on dedicated unary A and B machines. Starts are nonnegative integers. Exactly d>=2 named workers have A-only, B-only or AB eligibility, with composition (a,b,c), a+b+c=d, a+c>0 and b+c>0. Each operation requires one eligible worker. Distinct feasible workers may start A and B simultaneously on their distinct machines.
+
+Successive assignment starts of the same worker are separated by at least d slots, across stages as well as within a stage. For each job, 0 <= B_start-A_start-1 <= W, with integer W>=0. Makespan T is the completion boundary after the final B. Workforce size and reuse separation are deliberately coupled at d. T=2n is the critical worker-throughput benchmark, not a universal lower bound in an independently parameterized model.
+
+The preserved theorem family concerns even-d zero-wait attainment (necessity at n=d only), the exact odd one-cycle minimum-wait boundary at n=d, the fixed odd-family critical no-wait feasibility reversal, and multiples-of-d constructive existence (odd maximum idle wait at most 2, not an exact general W_min law). The exact d=3 five-orbit makespan result is a finite-batch refinement. Arbitrary-n odd-d classification and independently varying workforce size/reuse distance are outside the established general theory.
+
+Witness JSON has d,a,b,c,n,W,T, worker_types, and operations containing job,stage,start,worker. The independent verifier checks counts, all job/stage assignments, integer starts, waiting/precedence, dedicated machine capacity, eligibility, worker separation and exact completion. Worker identity is the integer index into worker_types; it is not a person's name. Historical conjectures and counterexamples in WP1/WP2 are preserved as such, not silently promoted to final theorem claims.

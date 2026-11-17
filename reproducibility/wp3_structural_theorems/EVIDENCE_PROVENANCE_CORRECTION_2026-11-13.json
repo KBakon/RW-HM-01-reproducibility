@@ -1,0 +1,28 @@
+{
+  "project": "RW-HM-01",
+  "date": "2026-11-13",
+  "correction_type": "non-scientific evidence provenance correction",
+  "field": "saved_representatives",
+  "historical_reported_value": 121,
+  "corrected_downstream_value": 120,
+  "basis": {
+    "runner_sha256": "8541938c79f59881293bede35d093b41581234e35c7392633e91d3bb821339a3",
+    "csv_sha256": "d88c3f164984a72129feeac26f25e0b56d555f81250d985ad2232fdc04418bbc",
+    "runner_save_predicate_expected_rows": 120,
+    "csv_nonempty_witness_file_rows": 120,
+    "csv_distinct_witness_paths": 120,
+    "expected_inventory_matches_csv_set": true,
+    "by_theorem": {
+      "T1": 44,
+      "T2": 20,
+      "T3": 8,
+      "T4": 48
+    },
+    "inventory_sha256": "943cf6a91fd27d270da659abb54054bc6dd37893bb33a68f1bdc4ed28506cac5"
+  },
+  "historical_121_status": "documentation count error; no preserved artifact identifies a 121st representative witness",
+  "cli_statement_status": "historical claim not independently auditable from preserved package; do not repeat as independently verified",
+  "scientific_impact": "none; T1-T4 validity rests on analytic proofs and the correction does not change any theorem, construction, model assumption, or 79,094-case validation tally",
+  "p2_p4_reopen_required": false,
+  "downstream_rule": "For P3.7 and later manuscript/reproducibility text, use 120 for representative witness paths recorded by the campaign. Preserve original authority files unchanged and cite this correction as the superseding provenance record for this field only."
+}

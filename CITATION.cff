@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Software is MIT-licensed; research data and documentation are CC BY 4.0. See LICENSE_SCOPE.md."
+type: software
+title: "RW-HM-01 reproducibility code and evidence"
+version: "1.0.0"
+authors:
+  - family-names: "Bakon"
+    given-names: "Krisztián Attila"
+    orcid: "https://orcid.org/0000-0003-1882-094X"
+abstract: "Original scheduling code, stored result maps and representative witnesses for reusable skilled-worker critical-throughput analysis."
+repository-code: "https://github.com/KBakon/RW-HM-01-reproducibility"

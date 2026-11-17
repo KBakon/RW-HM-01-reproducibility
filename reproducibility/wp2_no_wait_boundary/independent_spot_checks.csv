@@ -1,0 +1,6 @@
+d,a,b,c,n,status,method,nodes,runtime,witness_verified
+5,0,2,3,6,FEASIBLE,rolling_mask_word_search,15,0.000742,True
+5,2,2,1,6,INFEASIBLE,rolling_mask_word_search,696,0.021802,N/A
+5,0,1,4,9,INFEASIBLE,rolling_mask_word_search,1274,0.042401,N/A
+7,0,1,6,20,INFEASIBLE,rolling_mask_word_search,36664,2.012611,N/A
+7,1,1,5,16,INFEASIBLE,rolling_mask_word_search,72640,6.366877,N/A

@@ -1,0 +1,272 @@
+{
+  "d": 7,
+  "a": 2,
+  "b": 1,
+  "c": 4,
+  "n": 21,
+  "W": 1,
+  "T": 42,
+  "worker_types": [
+    "A",
+    "B",
+    "AB",
+    "A",
+    "AB",
+    "AB",
+    "AB"
+  ],
+  "operations": [
+    {
+      "job": 0,
+      "stage": "A",
+      "start": 0,
+      "worker": 0
+    },
+    {
+      "job": 0,
+      "stage": "B",
+      "start": 1,
+      "worker": 1
+    },
+    {
+      "job": 1,
+      "stage": "A",
+      "start": 2,
+      "worker": 2
+    },
+    {
+      "job": 2,
+      "stage": "A",
+      "start": 3,
+      "worker": 3
+    },
+    {
+      "job": 1,
+      "stage": "B",
+      "start": 4,
+      "worker": 4
+    },
+    {
+      "job": 2,
+      "stage": "B",
+      "start": 5,
+      "worker": 5
+    },
+    {
+      "job": 3,
+      "stage": "A",
+      "start": 6,
+      "worker": 6
+    },
+    {
+      "job": 4,
+      "stage": "A",
+      "start": 7,
+      "worker": 0
+    },
+    {
+      "job": 3,
+      "stage": "B",
+      "start": 8,
+      "worker": 1
+    },
+    {
+      "job": 4,
+      "stage": "B",
+      "start": 9,
+      "worker": 2
+    },
+    {
+      "job": 5,
+      "stage": "A",
+      "start": 10,
+      "worker": 3
+    },
+    {
+      "job": 6,
+      "stage": "A",
+      "start": 11,
+      "worker": 4
+    },
+    {
+      "job": 5,
+      "stage": "B",
+      "start": 12,
+      "worker": 5
+    },
+    {
+      "job": 6,
+      "stage": "B",
+      "start": 13,
+      "worker": 6
+    },
+    {
+      "job": 7,
+      "stage": "A",
+      "start": 14,
+      "worker": 0
+    },
+    {
+      "job": 7,
+      "stage": "B",
+      "start": 15,
+      "worker": 1
+    },
+    {
+      "job": 8,
+      "stage": "A",
+      "start": 16,
+      "worker": 2
+    },
+    {
+      "job": 9,
+      "stage": "A",
+      "start": 17,
+      "worker": 3
+    },
+    {
+      "job": 8,
+      "stage": "B",
+      "start": 18,
+      "worker": 4
+    },
+    {
+      "job": 9,
+      "stage": "B",
+      "start": 19,
+      "worker": 5
+    },
+    {
+      "job": 10,
+      "stage": "A",
+      "start": 20,
+      "worker": 6
+    },
+    {
+      "job": 11,
+      "stage": "A",
+      "start": 21,
+      "worker": 0
+    },
+    {
+      "job": 10,
+      "stage": "B",
+      "start": 22,
+      "worker": 1
+    },
+    {
+      "job": 11,
+      "stage": "B",
+      "start": 23,
+      "worker": 2
+    },
+    {
+      "job": 12,
+      "stage": "A",
+      "start": 24,
+      "worker": 3
+    },
+    {
+      "job": 13,
+      "stage": "A",
+      "start": 25,
+      "worker": 4
+    },
+    {
+      "job": 12,
+      "stage": "B",
+      "start": 26,
+      "worker": 5
+    },
+    {
+      "job": 13,
+      "stage": "B",
+      "start": 27,
+      "worker": 6
+    },
+    {
+      "job": 14,
+      "stage": "A",
+      "start": 28,
+      "worker": 0
+    },
+    {
+      "job": 14,
+      "stage": "B",
+      "start": 29,
+      "worker": 1
+    },
+    {
+      "job": 15,
+      "stage": "A",
+      "start": 30,
+      "worker": 2
+    },
+    {
+      "job": 16,
+      "stage": "A",
+      "start": 31,
+      "worker": 3
+    },
+    {
+      "job": 15,
+      "stage": "B",
+      "start": 32,
+      "worker": 4
+    },
+    {
+      "job": 16,
+      "stage": "B",
+      "start": 33,
+      "worker": 5
+    },
+    {
+      "job": 17,
+      "stage": "A",
+      "start": 34,
+      "worker": 6
+    },
+    {
+      "job": 18,
+      "stage": "A",
+      "start": 35,
+      "worker": 0
+    },
+    {
+      "job": 17,
+      "stage": "B",
+      "start": 36,
+      "worker": 1
+    },
+    {
+      "job": 18,
+      "stage": "B",
+      "start": 37,
+      "worker": 2
+    },
+    {
+      "job": 19,
+      "stage": "A",
+      "start": 38,
+      "worker": 3
+    },
+    {
+      "job": 20,
+      "stage": "A",
+      "start": 39,
+      "worker": 4
+    },
+    {
+      "job": 19,
+      "stage": "B",
+      "start": 40,
+      "worker": 5
+    },
+    {
+      "job": 20,
+      "stage": "B",
+      "start": 41,
+      "worker": 6
+    }
+  ]
+}

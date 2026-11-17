@@ -1,0 +1,18 @@
+{
+  "status": "FEASIBLE",
+  "nodes": 8,
+  "checks": [
+    [
+      5,
+      "INFEASIBLE"
+    ],
+    [
+      6,
+      "INFEASIBLE"
+    ],
+    [
+      7,
+      "FEASIBLE"
+    ]
+  ]
+}

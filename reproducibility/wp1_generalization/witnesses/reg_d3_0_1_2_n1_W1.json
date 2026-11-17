@@ -1,0 +1,28 @@
+{
+  "d": 3,
+  "a": 0,
+  "b": 1,
+  "c": 2,
+  "n": 1,
+  "W": 1,
+  "T": 2,
+  "worker_types": [
+    "B",
+    "AB",
+    "AB"
+  ],
+  "operations": [
+    {
+      "job": 0,
+      "stage": "A",
+      "start": 0,
+      "worker": 1
+    },
+    {
+      "job": 0,
+      "stage": "B",
+      "start": 1,
+      "worker": 0
+    }
+  ]
+}
