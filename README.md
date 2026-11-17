@@ -17,7 +17,7 @@ The package contains the original scientific code, stored result maps, validatio
 
 https://github.com/KBakon/RW-HM-01-reproducibility
 
-Prepared for public release via GitHub + Zenodo. This is the selected publication destination; the GitHub repository has not yet been published.
+This public GitHub repository is the version-controlled home of the reproducibility package. The first Zenodo archival record and DOI will be created after the v1.0.0 GitHub release is archived.
 
 ## Licensing
 

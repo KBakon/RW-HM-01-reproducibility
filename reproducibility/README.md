@@ -1,6 +1,6 @@
 # Reproducibility material: reusable skilled-worker scheduling
 
-Scientific package prepared for public release via GitHub + Zenodo. Original code: MIT. Original research data/documentation: CC BY 4.0. See ../LICENSE_SCOPE.md and the public license notices at archive root. Repository: https://github.com/KBakon/RW-HM-01-reproducibility. A Zenodo DOI does not yet exist and is pending the first archived GitHub release.
+This public GitHub repository hosts the reproducibility package associated with the manuscript. The Zenodo archival record and DOI remain pending the first archived GitHub release. Original code: MIT. Original research data/documentation: CC BY 4.0. See ../LICENSE_SCOPE.md and the public license notices at archive root. Repository: https://github.com/KBakon/RW-HM-01-reproducibility. A Zenodo DOI does not yet exist and is pending the first archived GitHub release.
 
 ## Layout and evidence
 

@@ -12,4 +12,4 @@ These package-level notices do not alter scientific file bytes. Scientific Pytho
 
 If any file contains separate third-party terms, those terms take precedence for that file or identified material. No conflicting third-party notice was identified in the P6D inspection; no such notice has been removed or overridden.
 
-Licensing integration is author-approved local preparation only. No repository URL, DOI or release date exists yet, and external publication is not authorized by this candidate.
+Licensing is author-approved and applies to the original materials in this public repository according to the scope above. Repository: https://github.com/KBakon/RW-HM-01-reproducibility. The Zenodo archival record, Zenodo DOI, first GitHub release and article DOI remain pending. Third-party material remains subject to its own rights.

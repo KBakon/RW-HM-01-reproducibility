@@ -7,7 +7,7 @@
 **Repository URL:**  
 https://github.com/KBakon/RW-HM-01-reproducibility
 
-**Repository publication date:** PENDING — set only after actual successful publication.
+**Repository publication date:** 2026-11-17.
 
 ## Related manuscript
 
@@ -71,11 +71,11 @@ The first archival DOI will be created only after this public GitHub repository 
 
 ## Status
 
-GitHub repository publication: IN PREPARATION
+GitHub repository publication: PUBLISHED — 2026-11-17
 
 Zenodo archival record: NOT YET CREATED
 
 Zenodo DOI: PENDING
 
 Article DOI: PENDING
-The license files are preserved verbatim. Their preparation-status remarks describe the prepublication checkpoint; the repository URL above is the selected destination, not evidence that publication has occurred. No publication or release date is asserted.
+The license files are preserved verbatim. The repository was published on 2026-11-17. The first GitHub release and Zenodo archival DOI remain pending; the article DOI remains pending.
